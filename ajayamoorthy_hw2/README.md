@@ -2,7 +2,7 @@
 
 The following commands have to be run in the terminal to install all the libraries required to run the code.
 ```json
-sudo pip install glob
+sudo pip install glob2
 sudo pip install mxnet
 sudo pip install gluoncv
 sudo pip install open3d
